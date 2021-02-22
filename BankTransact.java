@@ -8,7 +8,7 @@ interface BankAccountSpec {
 
 }
 
-/*
+/* Sample output:
     Deposited amount: 5000
     Withdrawal amount: 2500
     Current Balance: 2500
