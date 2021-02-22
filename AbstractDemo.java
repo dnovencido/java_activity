@@ -29,3 +29,8 @@ abstract class Shape {
     public abstract double getArea();
     
 }
+
+/* Sample output
+    Area of rectangle : 390.0
+    Area of triangle : 51.0
+*/

@@ -7,3 +7,9 @@ interface BankAccountSpec {
     public boolean withdraw(int amount);
 
 }
+
+/*
+    Deposited amount: 5000
+    Withdrawal amount: 2500
+    Current Balance: 2500
+*/
