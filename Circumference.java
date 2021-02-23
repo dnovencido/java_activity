@@ -5,3 +5,8 @@ public class Circumference {
         System.out.println("Circumference = " + c.circumference());
     }
 }
+
+/* Sample output: 
+Diameter = 40.0
+Circumference = 125.66370612
+*/
